@@ -1,0 +1,93 @@
+      ECOLE SUPERIEURE INTERNATIONALE DE GENIE NUMERIQUE
+Matricule: ryh
+Noms et Prenoms: hr yhr
+Genre: h
+Nee le 1/1/1 a 1
+Filiere: ge
+Niveau: 0
+
+            Resultats en get
+            Enseignant: Dr.Priso
+Note TP: 2.00/10
+Note CC: 3.00/30
+Note Examen: 9.00/60
+Note Finale: 2.80/20
+Rang: 4 e
+         Statistiques generales
+Taux de validation: 20.00 pour cent
+Meilleure note: 13.20 /20
+Derniere note: 2.80 /20
+Moyenne generale: 5.40 /20
+
+
+
+      ECOLE SUPERIEURE INTERNATIONALE DE GENIE NUMERIQUE
+Matricule: hry
+Noms et Prenoms: rhy ryh
+Genre: rh
+Nee le 2/2/2 a a
+Filiere: ge
+Niveau: 0
+
+            Resultats en get
+            Enseignant: Dr.Priso
+Note TP: 10.00/10
+Note CC: 15.00/30
+Note Examen: 12.00/60
+Note Finale: 7.40/20
+Rang: 2 e
+         Statistiques generales
+Taux de validation: 20.00 pour cent
+Meilleure note: 13.20 /20
+Derniere note: 2.80 /20
+Moyenne generale: 5.40 /20
+
+
+
+      ECOLE SUPERIEURE INTERNATIONALE DE GENIE NUMERIQUE
+Matricule: fqd
+Noms et Prenoms: qrg grq
+Genre: m
+Nee le 12/1/21 a ff
+Filiere: ge
+Niveau: 0
+
+            Resultats en get
+            Enseignant: Dr.Priso
+Note TP: 9.00/10
+Note CC: 15.00/30
+Note Examen: 42.00/60
+Note Finale: 13.20/20
+Rang: 1 e
+         Statistiques generales
+Taux de validation: 20.00 pour cent
+Meilleure note: 13.20 /20
+Derniere note: 2.80 /20
+Moyenne generale: 5.40 /20
+
+
+
+      ECOLE SUPERIEURE INTERNATIONALE DE GENIE NUMERIQUE
+Matricule: gqr
+Noms et Prenoms: qfe fqe
+Genre: m
+Nee le 15/12/21 a m
+Filiere: ge
+Niveau: 0
+
+            Resultats en get
+            Enseignant: Dr.Priso
+Note TP: 4.00/10
+Note CC: 9.00/30
+Note Examen: 5.00/60
+Note Finale: 3.60/20
+Rang: 3 e
+         Statistiques generales
+Taux de validation: 20.00 pour cent
+Meilleure note: 13.20 /20
+Derniere note: 2.80 /20
+Moyenne generale: 5.40 /20
+
+
+
+Nombre d'etudiants ayant obtenus une note inferieure ou egale a 5/20: 0

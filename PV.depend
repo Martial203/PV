@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1607421200 source:c:\users\martial\desktop\pv\main.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"accueil.h"
+
+1606942044 source:c:\users\martial\desktop\pv\accueil.c
+	<stdio.h>
+	<stdlib.h>
+	"accueil.h"
+
+1606924746 c:\users\martial\desktop\pv\accueil.h
+
+1607413756 source:c:\users\martial\desktop\pv\inscription.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"inscription.h"
+
+1607411955 c:\users\martial\desktop\pv\enregistrement_etudiant.h
+
+1607378509 c:\users\martial\desktop\pv\inscription.h
+
+1607413661 source:c:\users\martial\desktop\pv\insertion_de_notes.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"insertion_de_notes.h"
+
+1607378512 c:\users\martial\desktop\pv\insertion_de_notes.h
+
+1607275044 source:c:\users\martial\desktop\pv\rang.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"rang.h"
+
+1607029831 c:\users\martial\desktop\pv\rang.h
+
+1607389372 source:c:\users\martial\desktop\pv\note_max.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"note_max.h"
+
+1607378521 c:\users\martial\desktop\pv\note_max.h
+
+1607219293 source:c:\users\martial\desktop\pv\note_min.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"note_min.h"
+
+1607037427 c:\users\martial\desktop\pv\note_min.h
+
+1607381180 source:c:\users\martial\desktop\pv\pourcentage_admis.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"pourcentage_admis.h"
+
+1607378525 c:\users\martial\desktop\pv\pourcentage_admis.h
+
+1607381173 source:c:\users\martial\desktop\pv\note_mini.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"note_mini.h"
+
+1607378523 c:\users\martial\desktop\pv\note_mini.h
+
+1607379021 source:c:\users\martial\desktop\pv\rangs.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"rangs.h"
+
+1607378527 c:\users\martial\desktop\pv\rangs.h
+
+1607380779 source:c:\users\martial\desktop\pv\moyenne_generale.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"moyenne_generale.h"
+
+1607378515 c:\users\martial\desktop\pv\moyenne_generale.h
+
+1607421576 source:c:\users\martial\desktop\pv\generer_pv.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"generer_pv.h"
+
+1607421597 c:\users\martial\desktop\pv\generer_pv.h
+
+1607421274 source:c:\users\martial\desktop\pv\statistiques.c
+	<stdio.h>
+	<stdlib.h>
+	"enregistrement_etudiant.h"
+	"statistiques.h"
+
+1607421312 c:\users\martial\desktop\pv\statistiques.h
+
